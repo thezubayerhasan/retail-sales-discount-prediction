@@ -179,15 +179,8 @@ This project analyzes retail transaction data to predict discount application us
 
 ## 👨‍💻 Contributors
 
-**Developed by:** Zubayer  
-**Institution:** [Your Institution]  
-**Program:** [Your Program]  
+**Developed by:** Md Zubayer Hasan 
 **Focus Areas:** Machine Learning, Data Science, Retail Analytics  
-
-**Contact:**  
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐙 GitHub: [Your GitHub]
 
 ---
 
@@ -233,17 +226,7 @@ Feel free to use, modify, and distribute with proper attribution.
 
 ---
 
-## 📁 Project Files
-
-- `Retail_Sales_Discount_Prediction_Zubayer.ipynb` - Main analysis notebook
-- `retail_store_sales.csv` - Dataset
-- `discount_model_comparison_results.csv` - Model performance metrics
-- `discount_feature_importance.csv` - Feature importance rankings
-- `README.md` - This file
-
----
-
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the repository:**
    ```bash
